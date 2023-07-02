@@ -1,7 +1,7 @@
 ---
 title: styled-components
 categories: [TIL, CSS, React]
-tags: [React, CSS, styled component] # TAG names should always be lowercase
+tags: [React, CSS, styled-component] # TAG names should always be lowercase
 ---
 
 ## 내일배움캠프 LGLG!

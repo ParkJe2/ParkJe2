@@ -1,5 +1,5 @@
 ---
-title: Redux Keyword
+title: Redux-Keyword
 categories: [TIL, React]
 tags: [
     React,
